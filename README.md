@@ -1,8 +1,30 @@
-# React + Vite
+**TODO App**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and efficient TODO App to manage tasks and boost productivity.
 
-Currently, two official plugins are available:
+## Freature
+ - Add, edit, and delete tasks.
+ - responsive and user-friendly UI
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tech Stack
+ - Frontend: HTML, CSS, REACTJS, JavaScript
+ - Backend: Node.js
+ - DB: Your local storage
+
+## Installation
+1. Clone the repo:
+   bash: git clone https://github.com/Sushitrashhhh/TODO_APP
+2. Navigate to the Project:
+   cd TODO_APP
+3. install dependencies:
+   bash: npm install
+4. Run the app:
+   npm run dev
+
+## Contribution
+1. Fork the repo and create a new branch.
+2. Commit and push changes.
+3. Open a pull request.
+
+## License
+Licensed under the MIT License.
